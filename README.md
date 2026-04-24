@@ -5,5 +5,5 @@ Developed for postgraduate students, specializing in mechatronics technology.
 
 Prepared by:
 
-Eng. Janeth Villeda Valles
+Eng. Janeth Villeda Valles, 
 Eng. Julio Alberto Larrea Crisóstomo
